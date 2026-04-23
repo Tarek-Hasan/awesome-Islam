@@ -121,6 +121,7 @@ Your contributions are always welcome!
 - [Hijri Date Picker](https://github.com/alhazmy13/HijriDatePicker) : Material (Gregorian - Hijri) Date & Time Picker.
 - [Kiblat Compass](https://github.com/najamiqbal/kiblat-Campass-android) : Compass for showing Kibla.
 - [MuslimData Android](https://github.com/kosratdev/muslim-data-android) : MuslimData is an Islamic Database that provides Prayer Times (fixed and calculated), Offline Geocoding, Location Search, Azkars (Hisnul Muslim) and 99 Names of Allah.
+- [QuranX](https://github.com/vipafattal/QuranX) : A framework to help android developers to build high performance, feature-rich, and powerful Quran apps. [`🧾`](https://vipafattal.github.io/QuranX/)
 - [Random Quran Verse](https://github.com/bullheadandplato/quranVerses) : Show random quran verse, best suitable for splash screens.
 - [Word By Word Quran](https://github.com/SadaqaWorks/Word-By-Word-Quran-Android) :Al- Quran for Android, in three language English, Indonesian, Bangla with Word by Word and grammatical analysis.
 
@@ -132,12 +133,10 @@ Your contributions are always welcome!
 
 ### Web APIs
 > Note: For avoiding duplication, only API those doesn't have any official WebApps or have closed-source WebApps are listed here. For more Web APIs go to [Web Apps](#web-apps).
-- [Fawaz Ahmed Islamic Projects](https://fawazahmed0.github.io/islamic-project)
-   - [Quran API](https://github.com/fawazahmed0/quran-api) : Free Quran API Service with 90+ different languages and 400+ translations.
-   - [Hadith API](https://github.com/fawazahmed0/hadith-api) : Free Hadith API Service with Multiple Languages and Multiple Grades.
-   - [Last Third Night Calculator](https://github.com/fawazahmed0/last-third-night-calculator) : Calculate last third night for praying.
 - [IslamSource](https://github.com/GregoryMorse/IslamSource) : Islam Source Quran, hadith, Islamic information metadata project.
 - [IslamicQuizAPI](https://github.com/rn0x/IslamicQuizAPI) : A database and an API to provide questions to assess your level in Sharia sciences and develop your academic achievement in various fields. All answers are sourced from the Durar Al-Sunniyya website.
+- [open-quran-view](https://www.npmjs.com/package/open-quran-view) : High-performance universal Quran rendering library using Quran Foundation API. It provides React and Web Component views for rendering Quran pages with high fidelity. [![][repo]](https://github.com/adelpro/open-quran-view)
+- [Prayer Times & Mosques Finder](https://github.com/jadmadi/prayer-times-mosque-finder): A simple web app that helps Muslims find prayer times for their location and discover nearby mosques. It uses OpenStreetMap data and the Aladhan API for accurate prayer times.
 - [Quran API](https://github.com/The-Quran-Project/Quran-API) : A simple API that provides the verses of the Quran. This API doesn't require any authentication. It's free and open for everyone without any rate limits. [`🧾`](https://quranapi.pages.dev)
 - [Quran Data](https://github.com/rn0x/Quran-Data) : The project provides databases for the Holy Quran in multiple formats such as JSON, CSV, and SQLite, and also includes an API to display this information and facilitate access to it. [`🧾`](https://quran.i8x.net/docs)
 - [QuranJS](https://github.com/quran/api-js) : A library for fetching quran data from the Quran.com API. This library also works on both Node.js and the browser. [`🧾`](https://quranjs.com)
@@ -185,6 +184,7 @@ Your contributions are always welcome!
 - [Noor-Ul-Huda](https://play.google.com/store/apps/details?id=com.mirfatif.noorulhuda) : Noor-Ul-Huda is an offline Quran app with Prayer Time and Duas (supplications). [![][repo]](https://github.com/mirfatif/NoorUlHuda)
 - [Open Quran](https://play.google.com/store/apps/details?id=com.open.quran) : The Holy Quran App with many translations and audio recitations. [![][repo]](https://github.com/Open-Quran/quran)
 - [Open Mushaf](https://play.google.com/store/apps/details?id=com.adelpro.openmushafnative) : Open-Mushaf Native is an open-source Quran Mushaf app built with React Native and Expo. [![][repo]](https://github.com/adelpro/open-mushaf-native)
+- [Open Tarteel](https://play.google.com/store/apps/details?id=kg.us.quran.tarteel.twa) : Open Tarteel is a modern, open-source Quran recitation TV app designed for clarity, accessibility, and ease of use. Browse and listen to Quran recitations, filter by Riwaya, and save your favorite recitations on TV platforms. [![][repo]](https://github.com/adelpro/open-tarteel-tv)
 - [Quran by MuslimPack](https://play.google.com/store/apps/details?id=com.hassaneltantawy.quran) : Flutter port of "Quran Android" with new look and features. [![][repo]](https://github.com/muslimpack/Quran)
 - [QuranApp](https://play.google.com/store/apps/details?id=com.quranapp.android) : The QuranApp is an ad-free and privacy-focused mobile application that facilitates reading and exploring the Holy Quran on daily basis at any time and place. [![][repo]](https://github.com/AlfaazPlus/QuranApp)
 - [Quran Revision Companion](https://f-droid.org/en/packages/com.wqar.quran_mem_helper/) : An app that serves as a companion for Quran revision. The intended user of the app is a Hafiz. [![][repo]](https://github.com/Waqar144/quran_memorization_helper)
@@ -220,6 +220,7 @@ Your contributions are always welcome!
 
 
 ### Wearables
+- [Prayer Watch Face](https://play.google.com/store/apps/details?id=com.devlomi.prayerwatchface): A Watch Face for WearOS that shows the upcoming Prayer time, time left for upcoming Prayer and Hijri Date. [![][repo]](https://github.com/3llomi/PrayerWatchFace)
 - [Salah Wear](https://play.google.com/store/apps/details?id=com.tazzix.wear.salah) : This app calculates Muslims prayer times using the device's location (latitude and longitude) based on different conventions. [![][repo]](https://github.com/tazzix/SalahWear)
 
 
@@ -231,18 +232,26 @@ Your contributions are always welcome!
 - [AlTaqwaa](https://app.altaqwaa.org) : A comprehensive Islamic website containing supplications and the Holy Quran with the voices of a large number of reciters, in addition to Tafsir and Hisn al-Muslim. The site also includes Islamic radio and prayer times. [![][repo]](https://github.com/rn0x/app.altaqwaa.org)
 - [Adelpro projects](https://adelpro.github.io)
    - [Open Mushaf](https://open-mushaf.vercel.app) : An open-source Quran Mushaf implementation built with TypeScript, using Next.js, PWA, and TailwindCSS for optimal performance, offline access, and responsive design. [![][repo]](https://github.com/adelpro/open-mushaf)
-   - [Open Quran](https://github.com/adelpro/open-quran) : An open-source Quran application designed to provide quran audio streaming experience across various platforms, using WebTorrent.
-   - [QuranIPFS](https://www.quranipfs.com) : Quran over IPFS for streaming and downloading. Supports Windows, Android and web browsers. [![][repo]](https://github.com/adelpro/Quranipfs)
+   - [Open Tarteel](https://tarteel.quran.us.kg) : open-source Quran application designed to provide an optimal Quran audio streaming experience across various platforms. With a intuitive user interface and enhanced audio player controls. [![][repo]](https://github.com/adelpro/open-tarteel)
+   - [QuranIPFS](https://ipfs.quran.us.kg) : Quran over IPFS for streaming and downloading. Supports Windows, Android and web browsers. [![][repo]](https://github.com/adelpro/Quranipfs)
+   - [Quran search engine](https://quran.us.kg/search) : Quran search engine with semantic understanding, fast indexing, and developer-friendly architecture. Built with modern TypeScript, scalable backend, and optimized search relevance. [![][repo]](https://github.com/adelpro/quran-search-engine)
+   - [Check Hadith](https://adelpro.github.io/check-hadith) : Check hadith nabawi using dorar API. The site enables you to search for and verify the authenticity of the Prophet's hadiths based on the word or a sentence of the hadith. [![][repo]](https://github.com/adelpro/check-hadith)
    - [OpenAdhan](https://openadhan.web.app) : Web app made with Reactjs for calculating Muslim prayer times using local (auto) position or manual postion calculated with city search. [![][repo]](https://github.com/adelpro/Openadhan)
+- [Fawaz Ahmed Islamic Projects](https://fawazahmed0.github.io/islamic-project)
+   - [Quran](https://fawazahmed0.github.io/quran/) : Read Quran free in 90+ different languages and 400+ translations. ![][repo] [Website](https://github.com/fawazahmed0/quran) [API](https://github.com/fawazahmed0/quran-api)
+   - [Hadith](https://fawazahmed0.github.io/hadiths/) : Read al-Sihah al-Sitta and Muwatta Malik Hadith in Multiple Languages and Multiple Grades. ![][repo] [Website](https://github.com/fawazahmed0/hadiths) [API](https://github.com/fawazahmed0/hadith-api)
+   - [Last Third Night Calculator](https://fawazahmed0.github.io/last-third-night-calculator/) : Calculate last third night for praying. [![][repo]](https://github.com/fawazahmed0/last-third-night-calculator)
 - [Fekra Computers WebServices](https://fekracomputers.github.io)
-   - [Quran](https://quran.islam-db.com) : Web app for Quran reading, audio, translations and tafsir. ![][repo] [Website]() [API]()
-   - [Hadith Encyclopedia](https://hadith.islam-db.com) : Encyclopedia of Hadith is a comprehensive application for all hadiths with classifications of hadiths, authors, and narrators. ![][repo] [Website]() [API]()
-   - [Islamic Library](https://books.islam-db.com) : Encyclopedia for Islamic books based on (shamela.ws) books with unique features in browsing, reading and searching books. ![][repo] [Website]() [API]()
-   - [Muslim Mate](https://muslimmate.islam-db.com) : A website to display dashboard for information needed daily for Muslim; Prayer times, Hijri Calendar, Weather and more. ![][repo] [Website]() [API]()
+   - [Quran](https://quran.islam-db.com) : Web app for Quran reading, audio, translations and tafsir. [![][repo]](https://github.com/fekracomputers/QuranWebsite)
+   - [Hadith Encyclopedia](https://hadith.islam-db.com) : Encyclopedia of Hadith is a comprehensive application for all hadiths with classifications of hadiths, authors, and narrators. ![][repo] [Website](https://github.com/fekracomputers/HadithEncyclopediaWebsite) [API](https://github.com/fekracomputers/HadithWebservice)
+   - [Islamic Library](https://books.islam-db.com) : Encyclopedia for Islamic books based on (shamela.ws) books with unique features in browsing, reading and searching books. ![][repo] [Website](https://github.com/fekracomputers/IslamicLibraryWebsite) [API](https://github.com/fekracomputers/IslamicLibraryWebservice)
+   - [Muslim Mate](https://muslimmate.islam-db.com) : A website to display dashboard for information needed daily for Muslim; Prayer times, Hijri Calendar, Weather and more. ![][repo] [Website](https://github.com/fekracomputers/MuslimMateWebsite) [API](https://github.com/fekracomputers/MuslimMateWebservice)
 - [Quran.com](https://quran.com) : Quran.com was founded in 1995. The website aims to make it easy for anyone to read, study, and learn the Quran. ![][repo] [Website](https://github.com/quran/quran.com-frontend-next) [API](https://github.com/quran/quran.com-api) [`🧾`](https://api-docs.quran.com/docs/category/quran.com-api)
 - [Quran by AlTaqwaa](https://quran.altaqwaa.org) : Quran website by AlTaqwaa offers a comprehensive index for reading surahs and the Holy Quran with the voices of a large number of reciters. [![][repo]](https://github.com/rn0x/quran_website)
+- [Quranfi](https://www.quranfi.xyz): A modern web application for reading and listening to Quranic verses with translations. Built using React, Vite, TypeScript, and Tailwind CSS, it provides a seamless and elegant experience for users. [![][repo]](https://github.com/Quranfi-Project/quranfi-web)
 - [Quranic Arabic Corpus](https://corpus.quran.com) : Quranic Arabic Corpus, an annotated linguistic resource which shows the Arabic grammar, syntax and morphology for each word in the Holy Quran. The corpus provides three levels of analysis: morphological annotation, a syntactic treebank and a semantic ontology. ![][repo] [Website](https://github.com/kaisdukes/quranic-corpus) [API](https://github.com/kaisdukes/quranic-corpus-api)
 - [Quranic lexicon Analysis](https://moroclash.github.io/Visualization-Of-Quran) : Designed for researchers of Quranic and Arabic studies, for lexical analysis of the Holy Quran using PyQuran. [![][repo]](https://github.com/hci-lab/PyQuran-LexicalAnalysis)
+- [Quran Word By Word](https://quranwbw.com) : QuranWBW is your companion for reading, listening to, and learning the Holy Quran, word-by-word. With features like word audios, Tajweed colors, and transliteration. Additionally, explore multi-language translations, tafsir, and detailed word morphology. [![][repo]](https://github.com/marwan/quranwbw)
 - [GlobalQuran](https://globalquran.com) : The GlobalQuran project made the Holy Quran available in text or audio format in several languages with features that allow users to browse verses, search and listen to recitations. [![][repo]](https://github.com/GlobalQuran/site)
 - [HadithHub](https://www.hadithhub.com) : HadithHub is a multi-language collection of Hadith. ![][repo] [Website](https://github.com/GibreelAbdullah/Hadith-Hub) [API](https://github.com/GibreelAbdullah/hadith-api-updater)
 - [Kanz Al-Islam](https://www.kanzislam.net) : An online platform that aims to provide comprehensive Islamic content. [![][repo]](https://github.com/rn0x/Kanzislam)
@@ -276,6 +285,7 @@ Your contributions are always welcome!
 
 ### Linux
 - [Eeman](https://flathub.org/apps/sh.shuriken.Eeman) : Eeman is an application to get Salah (Prayer) timings and read the beautiful Quran, written in Gtk 4 and Python. [![][repo]](https://codeberg.org/SHuRiKeN/Eeman)
+- [Khushu](https://flathub.org/en/apps/io.github.sniper1720.khushu) : Khushu is your all-in-one Muslim app for Linux desktop.It brings together accurate prayer times and native Adkar notifications in a clean, modern interface - built with zero telemetry and total respect for your data. [![][repo]](https://github.com/sniper1720/khushu)
 - [Prayer Times](https://github.com/0xzer0x/prayer-times) : A versatile Bash script designed to manage and display Islamic prayer times. It retrieves prayer schedules based on the user's geographical coordinates and provides notifications for each prayer.
 - [AthanTimes](https://extensions.gnome.org/extension/6997/athantimes) : Azan is an Islamic prayer times extension for Gnome Shell. [![][repo]](https://github.com/goodm4ven/athan-gnome-shell-extension)
 
@@ -287,6 +297,8 @@ Your contributions are always welcome!
 - [Quran In New Tab](https://chrome.google.com/webstore/detail/quran-in-new-tab/hggkcijghhpkdjeokpfgbhnpecliiijg) : Replace the new tab page with Quran verses and beautiful nature pictures. You can also hear a recitation of the verses, and translations as well. [![][repo]](https://github.com/shahednasser/quran-extension)
 - [Muslim Board](https://muslimboard.novalagung.com) : Personal Dashboard for Muslims anywhere in the world, available on many languages. [![][repo]](https://github.com/novalagung/muslimboard)
 - [Divine Prayer](https://chromewebstore.google.com/detail/divine-prayer/deghiahojmjleifepimmipmbakakpfag) : This Chrome extension displays a random dua, prayer or zikr from the Quran and Sahih Hadith on each new tab. [![][repo]](https://github.com/kamalahmed/divine-prayer)
+- [Muslim Companion](https://chromewebstore.google.com/detail/muslim-companion/pmlpkomimnkpjkkamingmlgifjiaefnh) : A comprehensive Chrome extension for Muslims featuring prayer times, Qibla direction, Islamic quotes, and more in a sleek, modern interface. [![][repo]](https://github.com/CosmicCoder13/muslim-companion)
+- [Open Muezzin](https://openmuezzin.adelpro.us.kg) : Open-source browser extension that provides location-based accurate Islamic prayer times and Athan notifications, without tracking, ads or data collection. [![][repo]](https://github.com/adelpro/open-muezzin)
 - [Prayer Times](https://chromewebstore.google.com/detail/prayer-times-in-browser-p/ipkhkglhpmngdkgclngmlpkekkpplbgm) : In-Browser Prayer Times and Notifications for Chromium browser. [![][repo]](https://github.com/jalalmostafa/prayertimes)
 - [Prayer Times Extension](https://chromewebstore.google.com/detail/prayer-times/fbkmgnkliklgbmanjkmiihkdioepnkce) : Easily access prayer times and see how much time is left until next prayers. [![][repo]](https://github.com/smartazanclock/PTX)
 - [Azkar Reminder](https://chromewebstore.google.com/detail/fcagcaikgffokonhlfbaainnaknhjkpp) : A browser add-on that reminds you of dhikr and dua, including morning and evening dhikr. [![][repo]](https://github.com/AhmedElTabarani/azkar-reminder-extension)
@@ -326,7 +338,7 @@ Your contributions are always welcome!
 - [Hisn Al muslim json](https://github.com/rn0x/hisn_almuslim_json) : Hisn Al muslim book Json file.
 - [Historical Encyclopedia](https://github.com/rn0x/Historical_Encyclopedia) : A JSON database containing historical events related to Islam and Muslims.
 - [Open Hadith Data](https://github.com/mhashim6/Open-Hadith-Data) : Open Hadith Library that contains full databases of 9 different books. With & without Arabic diacritics to allow proper searching. UTF-8 encoded.
-- [Names of Allah json](https://github.com/rn0x/Names_Of_Allah_Json) : Names of Allah Json file.
+- [Names of Allah json](https://github.com/rn0x/Names_Of_Allah_Json) : Names Of Allah Json file.
 
 ### Sound
 - [EveryAyah (Formerly 'Verse By Verse Quran')](https://everyayah.com) : Provides you with easy and free access to the Quran in MP3 format seperated into individual verse (verse by verse breakdown).
